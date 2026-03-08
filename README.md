@@ -19,10 +19,11 @@ I am an **IT Student** based in Selangor, Malaysia, currently in my second year 
 ---
 
 ### 🌱 Beyond the Code
-When I'm not debugging or designing, you can usually find me:
-- 🏎️ Watching **Formula 1** (Big fan of Max)
+When I'm not debugging, you can usually find me:
+- 🏎️ Watching **Formula 1** 
 - 🏀 Playing **Basketball**
-- 🕹️ Currently playing **Hollow Knight**
+- 🕹️ Gaming (Currently playing **Hollow Knight**)
 
 ---
 
+**ALL TRAGEDY ERASED, I SEE ONLY WONDERS**
