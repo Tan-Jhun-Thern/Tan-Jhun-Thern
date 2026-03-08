@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**Tan-Jhun-Thern/Tan-Jhun-Thern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Jhun! 👋
 
-Here are some ideas to get you started:
+I am an **IT Student** based in Selangor, Malaysia, currently in my second year of my diploma studies. I started my coding journey about a year ago
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I’m Working On
+- 🎓 Finalizing my **CS50P** (Python) projects.
+- 🛡️ Just started exploring **Cybersecurity** (CS50 Cybersecurity is next on my list!).
+- 📦 Learning the ins and outs of **GitHub** as a Student Developer.
+
+---
+
+### 🛠️ Tech Stack & Tools
+- **Languages:** Python (CS50p), SQL (PostgreSQL/pgAdmin4)
+- **Tools:** Git, GitHub, VS Code
+
+---
+
+### 🌱 Beyond the Code
+When I'm not debugging or designing, you can usually find me:
+- 🏎️ Watching **Formula 1** (Big fan of Max)
+- 🏀 Playing **Basketball**
+- 🕹️ Currently playing **Hollow Knight**
+
+---
+
